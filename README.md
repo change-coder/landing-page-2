@@ -1,1 +1,1 @@
-Project is live at:https://vishal-bashetti.github.io/Siddharth-Medicare/
+Project is live at: https://change-coder.github.io/landing-page-2/
